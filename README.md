@@ -1,8 +1,8 @@
 # Thron.cfd
 
-Kişisel profil sayfası.
+Personal profile page.
 
-## Teknolojiler
+## Tech Stack
 
 - [Next.js 15](https://nextjs.org/)
 - [React](https://react.dev/)
@@ -10,6 +10,6 @@ Kişisel profil sayfası.
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Geist Font](https://vercel.com/font)
 
-## Arka Plan
+## Background
 
-Arka plan efekti [v0 Shader Gradient](https://v0.app/templates/shader-gradient-component-cAawT1AJak) kullanılarak oluşturulmuştur.
+Background effect created using [v0 Shader Gradient](https://v0.app/templates/shader-gradient-component-cAawT1AJak).
